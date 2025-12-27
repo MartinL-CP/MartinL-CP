@@ -1,6 +1,8 @@
 ## Hi there 👋
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![Stats](https://github-readme-stats.vercel.app/api?username=MartinL-CP&theme=transparent)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MartinL-CP)
 
 <!--
 **MartinL-CP/MartinL-CP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
